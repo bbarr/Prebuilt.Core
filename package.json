@@ -1,12 +1,13 @@
 {
-  "name": "prebuild-core",
+  "name": "prebuilt-core",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "lib/prebuilt.js",
   "repository": "git@github.com:bbarr/Prebuilt.Core.git",
   "author": "Brendan Barr <bbarr1384@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "liquid-node": "^3.0.0",
+    "netlify": "^1.2.0",
     "node-yaml": "^3.1.1",
     "ramda": "^0.25.0",
     "uuid": "^3.3.2"
