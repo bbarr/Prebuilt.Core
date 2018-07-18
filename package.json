@@ -1,6 +1,6 @@
 {
   "name": "prebuilt-core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "lib/prebuilt.js",
   "repository": "git@github.com:bbarr/Prebuilt.Core.git",
   "author": "Brendan Barr <bbarr1384@gmail.com>",
